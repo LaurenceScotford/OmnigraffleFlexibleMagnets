@@ -8,3 +8,5 @@ In Omnigraffle, select a rectangle before running the script. The script will as
 
 It will then ask you to select any combination of the four sides to apply the magnets to.
 
+## Further information
+If you are interested, there's [further information on the development of this script](https://laurencescotford.com/more-flexibility-with-magnets-in-omnigraffle/) on my website.
